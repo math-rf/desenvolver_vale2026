@@ -1,11 +1,6 @@
-# Notebooks
-notebooks/*.ipynb
-
 # IDE
 .idea/
-
 # Notebooks checkpoints
 .ipynb_checkpoints/
-
 # Ambiente do python
 .venv/
